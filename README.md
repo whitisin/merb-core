@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+Add horizontal Mosaic3 augmentation (#6898)
