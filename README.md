@@ -1,1 +1,1 @@
-ultralytics 8.0.230 TensorRT export hang fix (#7180)
+Explorer API video https://youtu.be/3VryynorQeo  (#7838)
