@@ -1,1 +1,1 @@
-Update HTTP to HTTPS (#7548)
+Update Docs Home and Neural Magic pages (#7243)
