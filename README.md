@@ -1,1 +1,1 @@
-Update mkdocs.yml (#7693)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
