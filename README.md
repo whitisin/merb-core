@@ -1,1 +1,1 @@
-fix resume training
+Update mkdocs.yml (#7693)
