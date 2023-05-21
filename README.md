@@ -1,1 +1,1 @@
-Update OpenVINO INT8 export (#7515)
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
