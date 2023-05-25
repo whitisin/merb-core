@@ -1,1 +1,1 @@
-Fix TypeError in check_cfg() (#9245)
+Allow Annotator PIL.Image inputs (#8397)
