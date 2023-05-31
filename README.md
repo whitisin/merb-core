@@ -1,1 +1,1 @@
-Add horizontal Mosaic3 augmentation (#6898)
+Mkdocs annotations fixes (#7600)
