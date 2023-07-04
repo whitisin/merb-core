@@ -1,1 +1,1 @@
-Docs updates and improvements (#8183)
+Batch inference fixes (#8854)
