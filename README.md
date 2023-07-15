@@ -1,1 +1,1 @@
-Add dota8.yaml and O tests (#7394)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
