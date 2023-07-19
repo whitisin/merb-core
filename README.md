@@ -1,1 +1,1 @@
-Fix RTDETR generate anchor grid out of boundary (#7247)
+Updating a typo on paddlepaddle.md (#9108)
