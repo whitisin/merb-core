@@ -1,1 +1,1 @@
-Batch inference fixes (#8854)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
