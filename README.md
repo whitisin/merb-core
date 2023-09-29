@@ -1,1 +1,1 @@
-ultralytics 8.1.17 fix ClassificationDataset caching (#8358)
+ultralytics 8.0.236 dataset semantic & SQL search API (#7136)
