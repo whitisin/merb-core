@@ -1,1 +1,1 @@
-ultralytics 8.0.236 dataset semantic & SQL search API (#7136)
+Conda cv2 ImportError libEGL.so.1 fix (#9255)
