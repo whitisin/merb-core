@@ -1,1 +1,1 @@
-Link checks SSL insecure robustness (#7853)
+Mkdocs annotations fixes (#7600)
