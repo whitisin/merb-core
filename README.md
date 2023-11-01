@@ -1,1 +1,1 @@
-Update Dockerfile for Raspberry Pi Support (#8123)
+Explorer with LanceDB, Actions and Docs updates (#7487)
