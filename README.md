@@ -1,1 +1,1 @@
-Mkdocs updates (#8008)
+Compare plt.get_backend() in lowercase (#8409)
