@@ -1,1 +1,1 @@
-ultralytics 8.1.24 new OpenVINO 2023.3 export updates (#8417)
+Add https://youtu.be/R42s2zFtNIY to hub/datasets.md and CoreML image fix (#8085)
