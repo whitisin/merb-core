@@ -1,1 +1,1 @@
-Update TFLite Docs images (#8605)
+Replacing Images for torchscript.md (#8596)
