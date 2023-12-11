@@ -1,1 +1,1 @@
-Update mkdocs.yml (#7693)
+OBB: Fix plot_images (#7592)
