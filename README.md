@@ -1,1 +1,1 @@
-Add instance segmentation and vision-eye mapping in Docs + Fix minor code bug in other real-world-projects (#6972)
+Limit ray<2.9.3 due to bug in ray==2.10.0 (#9254)
