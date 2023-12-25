@@ -1,1 +1,1 @@
-OBB: Fix plot_images (#7592)
+Bump nick-invision/retry from 2 to 3 in /.github/workflows (#8023)
