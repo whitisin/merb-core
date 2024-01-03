@@ -1,1 +1,1 @@
-docs: update view-results-in-terminal.md (#66)
+Add PaddlePaddle Docs Integrations Page (#8858)
