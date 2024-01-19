@@ -1,1 +1,1 @@
-Retry once for Docker CI failures (#8164)
+Auto-format by https://ultralytics.com/actions
