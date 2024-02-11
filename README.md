@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+Update pyproject.toml [tool.pytest.ini_options] (#9259)
