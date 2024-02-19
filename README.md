@@ -1,1 +1,1 @@
-Move Explorer tests to scheduled CI (#8305)
+Update mkdocs.yml (#7693)
