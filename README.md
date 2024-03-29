@@ -1,1 +1,1 @@
-Mkdocs annotations fixes (#7600)
+Auto-format by https://ultralytics.com/actions
