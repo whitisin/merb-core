@@ -1,1 +1,1 @@
-docs: update view-results-in-terminal.md (#66)
+Add PR Summary step to Ultralytics Actions (#7675)
