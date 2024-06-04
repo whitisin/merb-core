@@ -1,1 +1,1 @@
-ultralytics 8.1.13 fix yolo train time= bug (#8179)
+Update pyproject.toml [tool.pytest.ini_options] (#9259)
