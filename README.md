@@ -1,1 +1,1 @@
-Add OpenVINO Latency vs Throughput modes Docs page (#9001)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
