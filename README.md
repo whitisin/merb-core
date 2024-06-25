@@ -1,1 +1,1 @@
-ultralytics 8.1.5 add OBB Tracking support (#7731)
+Allow Annotator PIL.Image inputs (#8397)
