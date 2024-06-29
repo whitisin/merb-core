@@ -1,1 +1,1 @@
-Add YouTube iframe loading=lazy (#8001)
+Expand Model method type hinting (#8279)
