@@ -1,1 +1,1 @@
-fix print val map
+fix for KeyError: 'epoch' (#48)
