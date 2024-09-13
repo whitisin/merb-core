@@ -1,1 +1,1 @@
-fix export tensorrt with dynamic size
+Fix cmake requirements for ARM64 (#8589)
