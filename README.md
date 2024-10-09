@@ -1,1 +1,1 @@
-Update the heatmap module code + docs (#7045)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
